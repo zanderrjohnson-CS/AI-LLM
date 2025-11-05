@@ -147,3 +147,4 @@ batch = input_embeddings
 context_vecs = mha(batch)
 
 print("context_vecs.shape:", context_vecs.shape)
+print("end of chap 3")
